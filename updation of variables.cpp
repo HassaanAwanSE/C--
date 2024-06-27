@@ -9,6 +9,6 @@ int main(){
   cout<<x<<endl;
   x = x -8;
   cout<<x<<endl;
-  x = x * 10;
+  x *=10;
   cout<<x<<endl;
 }

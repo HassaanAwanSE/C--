@@ -6,3 +6,4 @@ int main() {
 	int x = (int)ch;
 	cout<<x;
 }
+
